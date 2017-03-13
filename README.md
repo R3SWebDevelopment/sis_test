@@ -10,8 +10,7 @@ From the list, write to a new file: `numbers.txt` all the _pair numbers_ and all
  * In Java, using the first 1000 characters of the `numbers.txt` file, write a Class that will take a _String_ and return a **List of Integers**, containing all the palindrome numbers identified in chunks of 5 numbers. If nothing is found, try with chunks of 4, after that with chunks of 3. Print your results to the console.
 
 ## How to submit?
- * You have 2 days, starting the date you got this URL, to submit a solution to the problem
- * Use no external modules/libraries other than those provided with your runtime environment
+ * Use **no external modules/libraries**, other than those provided with your runtime environment
  * Be creative with your solution, there is no right answer but some will work better
  * Submit the instructions for using your solution
  * Measure the time your solution takes to complete all the steps
