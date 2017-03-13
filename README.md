@@ -16,4 +16,4 @@ From the list, write to a new file: `numbers.txt` all the _pair numbers_ and all
  * Submit the instructions for using your solution
  * Measure the time your solution takes to complete all the steps
    * If possible, include unit tests
- * Submit your solution via Github (clone this project and send back the URL via e-mail/in-mail, **do not comment here**)
+ * Submit your solution via Github (fork this project and send back the URL via e-mail/in-mail, **do not comment here nor create pull requests from this project**)
